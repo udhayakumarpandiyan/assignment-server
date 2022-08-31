@@ -1,4 +1,4 @@
 ﻿{
-    "connectionString": "mongodb+srv://udhay:passmongo@udhaycluster-jje6l.mongodb.net/assignment?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "connectionString": "mongodb+srv://udhay:passtest@udhaycluster.jje6l.mongodb.net/?retryWrites=true&w=majority",
     "secret": "MASTERPING"
 }
